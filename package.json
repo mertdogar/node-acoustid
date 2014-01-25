@@ -21,7 +21,7 @@
   "author": "Parsha Pourkhomami",
   "license": "Public Domain",
   "dependencies": {
-    "fpcalc": "~1",
+    "fpcalc": "mertdogar/node-fpcalc.git",
     "hyperquest": "",
     "concat-stream": "~1"
   },
